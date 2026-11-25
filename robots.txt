@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ismail20121407.github.io/chemicfiz/sitemap.xml
